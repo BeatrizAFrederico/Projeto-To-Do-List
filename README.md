@@ -5,4 +5,5 @@ Nessa lista de tarefas temos as seguintes funcionalidades:
 - Excluir uma tarefa.
 - Concluir uma tarefa.
 - Desconcluir uma tarefa.
-Além disse também está configurada para não perder os dados incluidos quando recarregar a tela novamente ou abrir em uma nova aba.
+  
+Além disso também está configurada para não perder os dados incluidos quando recarregar a tela novamente ou abrir em uma nova aba.
